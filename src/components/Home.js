@@ -11,8 +11,6 @@ class Home extends  Component{
 	<div class="csslider infinity" id="slider1">
 		<input type="radio" name="slides" checked="checked" id="slides_1"/>
 		<input type="radio" name="slides" id="slides_2"/>
-		<input type="radio" name="slides" id="slides_3"/>
-		<input type="radio" name="slides" id="slides_4"/>
 
 		<ul class="banner_slide_bg">
 			<li>
@@ -22,7 +20,6 @@ class Home extends  Component{
 							<div class="container">
 								<h2 class="movetxt agile-title text-capitalize">Físcos.com</h2>
 								<p>Sua melhor opção em modelos.</p>
-								
 								<Link to='/contact' class="btn">Mensagem</Link>
 							</div>
 						</div>
@@ -34,35 +31,9 @@ class Home extends  Component{
 					<div class="bs-slider-overlay1">
 						<div class="banner-text">
 							<div class="container">
-								<h4 class="movetxt agile-title text-capitalize">We Help to grow your hair as well beard </h4>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries.</p>
-								<Link to='/contact' class="btn">Get appointment</Link>
-							</div>
-						</div>
-					</div>
-				</div>
-			</li>
-			<li>
-				<div class="slider-info bg3">
-					<div class="bs-slider-overlay1">
-						<div class="banner-text">
-							<div class="container">
-							<h2 class="movetxt agile-title text-capitalize">We Design and Create Hair Style Latest</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries.</p>
-							<Link to='/contact' class="btn">Get appointment</Link>
-							</div>
-						</div>
-					</div>
-				</div>
-			</li>
-			<li>
-				<div class="slider-info bg4">
-					<div class="bs-slider-overlay1">
-						<div class="banner-text">
-							<div class="container">
-								<h4 class="movetxt agile-title text-capitalize">We design latest trending haircuts </h4>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries.</p>
-								<Link to='/contact' class="btn">Get appointment</Link>
+								<h4 class="movetxt agile-title text-capitalize">Estilo e profissionalismo </h4>
+								<p>Muito mais que modelagem, experiência!</p>
+								<Link to='/about' class="btn">Saiba Mais</Link>
 							</div>
 						</div>
 					</div>
@@ -73,8 +44,6 @@ class Home extends  Component{
 			<div>
 			  <label for="slides_1"></label>
 			  <label for="slides_2"></label>
-			  <label for="slides_3"></label>
-			  <label for="slides_4"></label>
 			</div>
 		</div>
 	</div>
@@ -111,7 +80,7 @@ class Home extends  Component{
 					<div class="menu-item">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Trim your Mustaches style 1</h6>
+								<h6>Ensaio no estúdio</h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$7</h6>
@@ -124,7 +93,7 @@ class Home extends  Component{
 					<div class="menu-item my-4">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Trim your Mustaches style 2</h6>
+								<h6>Ensaio na praia</h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$10</h6>
@@ -136,7 +105,7 @@ class Home extends  Component{
 					<div class="menu-item">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Trim your Mustaches style 3</h6>
+								<h6>Ensaio em salão</h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$15</h6>
@@ -149,7 +118,7 @@ class Home extends  Component{
 					<div class="menu-item mt-4">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Trim your Mustaches style 4</h6>
+								<h6>Apresentação em eventos </h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$15</h6>
@@ -161,7 +130,7 @@ class Home extends  Component{
 					<div class="menu-item mt-4">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Trim your Mustaches style 5</h6>
+								<h6>Ensaio espaço urbano</h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$20</h6>
@@ -173,7 +142,7 @@ class Home extends  Component{
 					<div class="menu-item mt-4">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Trim your Mustaches style 6</h6>
+								<h6>Ensaio personalizado</h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$25</h6>
@@ -190,7 +159,7 @@ class Home extends  Component{
 					<div class="menu-item">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Dye your hair and beard 1</h6>
+								<h6>Ensaio no estúdio</h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$27</h6>
@@ -203,7 +172,7 @@ class Home extends  Component{
 					<div class="menu-item my-4">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Dye your hair and beard 2</h6>
+								<h6>Ensaio espaço urbano</h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$21</h6>
@@ -216,7 +185,7 @@ class Home extends  Component{
 					<div class="menu-item">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Dye your hair and beard 3</h6>
+								<h6>Ensaio na natureza</h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$25</h6>
@@ -228,7 +197,7 @@ class Home extends  Component{
 					<div class="menu-item mt-4">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Dye your hair and beard 4</h6>
+								<h6>Ensaio no exterior</h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$28</h6>
@@ -240,7 +209,7 @@ class Home extends  Component{
 					<div class="menu-item mt-4">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Dye your hair and beard 5</h6>
+								<h6>Ensaio personalizado</h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$30</h6>
@@ -252,7 +221,7 @@ class Home extends  Component{
 					<div class="menu-item mt-4">
 						<div class="row border-dot no-gutters">
 							<div class="col-8 menu-item-name">
-								<h6>Dye your hair and beard 6</h6>
+								<h6>Apresentação em eventos</h6>
 							</div>
 							<div class="col-4 menu-item-price text-right">
 								<h6>$35</h6>
@@ -291,21 +260,21 @@ class Home extends  Component{
                 <div class="col-md-4 test-grid text-left px-lg-3">
                     <div class="test-info">
 
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s. Praesent ullamcorper dui turpis.</p>
-                        <h3 class="mt-md-4 mt-3"> Abraham Smith</h3>
+                        <p>O novo conceito de modelos masculinos, nunca vi nada igual.</p>
+                        <h3 class="mt-md-4 mt-3">Gisele Bündchen</h3>
 
                         <div class="test-img text-center mb-3">
-                            <img src="assets/images/test1.jpg" class="img-fluid" alt="user-image" />
+                            <img src="assets/images/gisele.jpg" class="img-fluid" alt="user-image"/>
                         </div>
                         <div class="mobl-footer test-soc text-center">
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="#">
+                                    <a href="https://www.facebook.com/Gisele">
 							<span class="fa fa-facebook-f"></span>
 						</a>
                                 </li>
                                 <li class="mx-1">
-                                    <a href="#">
+                                    <a href="https://twitter.com/giseleofficial?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
 							<span class="fa fa-twitter"></span>
 						</a>
                                 </li>
@@ -317,20 +286,20 @@ class Home extends  Component{
                 <div class="col-md-4 test-grid text-left px-lg-3 py-sm-5 py-md-0 py-3">
                     <div class="test-info">
 
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s. Praesent ullamcorper dui turpis.</p>
-                        <h3 class="mt-md-4 mt-3"> Mariana Noe</h3>
+                        <p>Talvez nem a minha esposa faça uma modelagem tão bem feita.</p>
+                        <h3 class="mt-md-4 mt-3">Tom Brady</h3>
                         <div class="test-img text-center mb-3">
-                            <img src="assets/images/test2.jpg" class="img-fluid" alt="user-image" />
+                            <img src="assets/images/tom.jpg" class="img-fluid" alt="user-image" />
                         </div>
                         <div class="mobl-footer test-soc text-center">
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="#">
+                                    <a href="https://www.facebook.com/TomBrady">
 							<span class="fa fa-facebook-f"></span>
 						</a>
                                 </li>
                                 <li class="mx-1">
-                                    <a href="#">
+                                    <a href="https://twitter.com/tombrady">
 							<span class="fa fa-twitter"></span>
 						</a>
                                 </li>
@@ -342,21 +311,21 @@ class Home extends  Component{
                 <div class="col-md-4 test-grid text-left px-lg-3">
                     <div class="test-info">
 
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s. Praesent ullamcorper dui turpis.</p>
-                        <h3 class="mt-md-4 mt-3">Nebula Nairobi</h3>
+                        <p>Mereciam dividir o título de Mister Universo</p>
+                        <h3 class="mt-md-4 mt-3">Anitta</h3>
 
                         <div class="test-img text-center mb-3">
-                            <img src="assets/images/test3.jpg" class="img-fluid" alt="user-image" />
+                            <img src="assets/images/anitta.jpg" class="img-fluid" alt="user-image" />
                         </div>
                         <div class="mobl-footer test-soc text-center">
                             <ul class="list-unstyled">
                                 <li>
-                                    <a href="#">
+                                    <a href="https://www.facebook.com/AnittaOficial">
 							<span class="fa fa-facebook-f"></span>
 						</a>
                                 </li>
                                 <li class="mx-1">
-                                    <a href="#">
+                                    <a href="https://twitter.com/Anitta?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
 							<span class="fa fa-twitter"></span>
 						</a>
                                 </li>

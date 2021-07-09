@@ -88,11 +88,10 @@ class About extends Component{
             <div class="row mt-lg-5 mt-4">
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <img src="assets/images/t1.jpg" class="img-fluid" alt="user-image" />
+                        <img src="assets/images/Maisa.jpeg" class="img-fluid" alt="user-image" />
                     </div>
                     <div class="team-info">
-                        <h3 class="mt-md-4 mt-3">JAMES Men spa</h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+                        <h3 class="mt-md-4 mt-3">MAÍSA POIANI</h3>
                         <ul class="list-unstyled team-icons mt-4">
                             <li>
                                 <a href="#" class="t-icon">
@@ -110,11 +109,10 @@ class About extends Component{
 
                 <div class="col-md-4 team-gd second text-center my-md-0 my-5">
                     <div class="team-img mb-4">
-                        <img src="assets/images/t2.jpg" class="img-fluid" alt="user-image" />
+                        <img src="assets/images/Camila.jpeg" class="img-fluid" alt="user-image" />
                     </div>
                     <div class="team-info">
-                        <h3 class="mt-md-4 mt-3">DEEN MUSTACHIO</h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+                        <h3 class="mt-md-4 mt-3">CAMILA FERNANDA</h3>
                         <ul class="list-unstyled team-icons mt-4">
                             <li>
                                 <a href="#" class="t-icon">
@@ -129,13 +127,13 @@ class About extends Component{
                         </ul>
                     </div>
                 </div>
+
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <img src="assets/images/t3.jpg" class="img-fluid" alt="user-image" />
+                        <img src="assets/images/Isabella.jpeg" class="img-fluid" alt="user-image" />
                     </div>
                     <div class="team-info">
-                        <h3 class="mt-md-4 mt-3"> CLINT HAIRISTA</h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+                        <h3 class="mt-md-4 mt-3">ISABELLA TOBIAS</h3>
                         <ul class="list-unstyled team-icons mt-4">
                             <li>
                                 <a href="#" class="t-icon">
@@ -150,6 +148,70 @@ class About extends Component{
                         </ul>
                     </div>
                 </div>
+
+                <div class="col-md-4 team-gd second text-center my-md-0 my-5">
+                    <div class="team-img mb-4">
+                        <img src="assets/images/Dora.jpeg" class="img-fluid" alt="user-image" />
+                    </div>
+                    <div class="team-info">
+                        <h3 class="mt-md-4 mt-3">DORA GOMYDE</h3>
+                        <ul class="list-unstyled team-icons mt-4">
+                            <li>
+                                <a href="#" class="t-icon">
+                                    <span class="fa fa-facebook-f"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="t-icon">
+                                    <span class="fa fa-twitter"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-md-4 team-gd second text-center my-md-0 my-5">
+                    <div class="team-img mb-4">
+                        <img src="assets/images/Bianca.jpeg" class="img-fluid" alt="user-image" />
+                    </div>
+                    <div class="team-info">
+                        <h3 class="mt-md-4 mt-3">BIANCA SILVA</h3>
+                        <ul class="list-unstyled team-icons mt-4">
+                            <li>
+                                <a href="#" class="t-icon">
+                                    <span class="fa fa-facebook-f"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="t-icon">
+                                    <span class="fa fa-twitter"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-md-4 team-gd second text-center my-md-0 my-5">
+                    <div class="team-img mb-4">
+                        <img src="assets/images/Evelyn.jpeg" class="img-fluid" alt="user-image" />
+                    </div>
+                    <div class="team-info">
+                        <h3 class="mt-md-4 mt-3">EVELYN PRAIS</h3>
+                        <ul class="list-unstyled team-icons mt-4">
+                            <li>
+                                <a href="#" class="t-icon">
+                                    <span class="fa fa-facebook-f"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="t-icon">
+                                    <span class="fa fa-twitter"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
             </div>
 
         </div>

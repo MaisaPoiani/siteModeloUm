@@ -182,16 +182,7 @@ h4.agile-title,h1.agile-title,h2.agile-title {
 }
 
 .csslider>ul>li:nth-child(2) {
-    background: url(../images/ban2.jpg) no-repeat center;
-    background-size: cover;
-}
-
-.csslider>ul>li:nth-child(3) {
-    background: url(../images/ban3.jpg) no-repeat center;
-    background-size: cover;
-}
-.csslider>ul>li:last-child {
-    background: url(../images/ban4.jpg) no-repeat center;
+    background: url(../images/ban2.jpeg) no-repeat center;
     background-size: cover;
 }
 
